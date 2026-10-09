@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81905387314",
+    "project_id": "gama567org",
+    "storage_bucket": "gama567org.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81905387314:android:b0e94cf9209847fe38b92b",
+        "android_client_info": {
+          "package_name": "com.gama56723.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_td2762ABMkYr1ntV0-mvgzsWSlHbk5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
